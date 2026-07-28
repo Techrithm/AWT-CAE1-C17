@@ -20,7 +20,3 @@ A simple web application developed using HTML, CSS, and JavaScript to analyze st
 - 10 or more → Excellent Participation
 - 5 to 9 → Good Participation
 - Less than 5 → Needs More Participation
-
-## Author
-
-Your Name
